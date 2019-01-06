@@ -13,29 +13,29 @@
 		b. Download wordpress  
 		c. Painel básico**
 
-	3. Painel completo  
-		a. Painel avançado  
-		b. Plugin básico  
+3. Painel completo  
+	a. Painel avançado  
+	b. Plugin básico  
 
-	4. Getting started  
-		a. Primeiros códigos  
-		b. Entendendo arquivos  
+4. Getting started  
+	a. Primeiros códigos  
+	b. Entendendo arquivos  
 
-	5. Avançando no WP  
-		a. Loops  
-		b. Post Types  
-		c. Taxonomias  
-		d. Categorias  
+5. Avançando no WP  
+	a. Loops  
+	b. Post Types  
+	c. Taxonomias  
+	d. Categorias  
 
-	6. Iniciando projeto WP básico  
-		a. Download tema  
-		b. Configuração  
-		c. Usando ferramentas de build  
+6. Iniciando projeto WP básico  
+	a. Download tema  
+	b. Configuração  
+	c. Usando ferramentas de build  
 
-	7. Plugin úteis  
-		a. Contact form  
-		b. Advanced custom fields  
-		c. Flamingo  
-		d. SEO by YOAST  
+7. Plugin úteis  
+	a. Contact form  
+	b. Advanced custom fields  
+	c. Flamingo  
+	d. SEO by YOAST  
 
-	8. Projeto final  
+8. Projeto final  
