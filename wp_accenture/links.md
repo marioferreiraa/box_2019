@@ -1,19 +1,24 @@
 # Links
 
 0. Sites de referência
-a. [Codex](https://codex.wordpress.org/)
-b. [Escola WP](http://www.escolawp.com/)
-c. [Developer WP](https://developer.wordpress.org/)
+
+	0.a. [Codex](https://codex.wordpress.org/)
+	0.b. [Escola WP](http://www.escolawp.com/)
+	0.c. [Developer WP](https://developer.wordpress.org/)
+
+
 
 1. Instalação e configuração
-a. Instalação XAMPP - [Instalando com XAMPP](https://www.adamsilva.com.br/programacao/como-instalar-o-wordpress-localhost/)
-b. Instalação LAMPP - [Instalando com LAMPP](https://www.digitalocean.com/community/tutorials/como-instalar-o-wordpress-com-lamp-no-ubuntu-16-04-pt)
-c. Instalação WAMPP - [Instalando com WAMPP](http://www.lucianosimas.com.br/blog/instalar-o-wordpress/)
-d. Instalação MAMPP - [Instalando com MAMPP](https://tecnofala.com/instalar-wordpress-no-mac/)
+
+	1.a. Instalação XAMPP - [Instalando com XAMPP](https://www.adamsilva.com.br/programacao/como-instalar-o-wordpress-localhost/)
+	1.b. Instalação LAMPP - [Instalando com LAMPP](https://www.digitalocean.com/community/tutorials/como-instalar-o-wordpress-com-lamp-no-ubuntu-16-04-pt)
+	1.c. Instalação WAMPP - [Instalando com WAMPP](http://www.lucianosimas.com.br/blog/instalar-o-wordpress/)
+	1.d. Instalação MAMPP - [Instalando com MAMPP](https://tecnofala.com/instalar-wordpress-no-mac/)
 
 2. Painel iniciante
 
 3. Painel completo
+
 a.  - []()
 b.  - []()
 c.  - []()
