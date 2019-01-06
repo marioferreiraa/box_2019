@@ -12,6 +12,10 @@
 	b. Instalação LAMPP - [Instalando com LAMPP](https://www.digitalocean.com/community/tutorials/como-instalar-o-wordpress-com-lamp-no-ubuntu-16-04-pt)  
 	c. Instalação WAMPP - [Instalando com WAMPP](http://www.lucianosimas.com.br/blog/instalar-o-wordpress/)  
 	d. Instalação MAMPP - [Instalando com MAMPP](https://tecnofala.com/instalar-wordpress-no-mac/)  
+	
+	Wordpress no Linux, Instalando cada server separadamente - [Instalando no Ubuntu](https://inovalize.com.br/como-instalar-facilmente-o-wordpress-no-ubuntu-15-10/)
+	
+	PS - Trocar versão do PHP para 7.3
 
 2. Painel iniciante
 
