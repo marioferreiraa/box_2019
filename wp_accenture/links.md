@@ -11,7 +11,8 @@
 	a. Instalação XAMPP - [Instalando com XAMPP](https://www.adamsilva.com.br/programacao/como-instalar-o-wordpress-localhost/)  
 	b. Instalação LAMPP - [Instalando com LAMPP](https://www.digitalocean.com/community/tutorials/como-instalar-o-wordpress-com-lamp-no-ubuntu-16-04-pt)  
 	c. Instalação WAMPP - [Instalando com WAMPP](http://www.lucianosimas.com.br/blog/instalar-o-wordpress/)  
-	d. Instalação MAMPP - [Instalando com MAMPP](https://tecnofala.com/instalar-wordpress-no-mac/)  
+	d. Instalação MAMPP - [Instalando com MAMPP](https://tecnofala.com/instalar-wordpress-no-mac/)
+	e. Instar no ubuntu - [Instalar na 'unha'](https://inovalize.com.br/como-instalar-facilmente-o-wordpress-no-ubuntu-15-10/)
 
 2. Painel iniciante
 
